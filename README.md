@@ -1,5 +1,5 @@
-# Project Title
-Generating Synthetic Training Images to Detect Split Defects in Stamped Components (https://ieeexplore.ieee.org/document/10317079)
+# Generating Synthetic Training Images to Detect Split Defects in Stamped Components
+(https://ieeexplore.ieee.org/document/10317079)
 ## Implementation Details
 
 This repository contains the implementation of a multi-stage approach for detecting rare defects, specifically necks and splits in sheet metal stamping. The process is outlined in four stages, with this repository providing the code for stages two and three, responsible for generating synthetic images.
