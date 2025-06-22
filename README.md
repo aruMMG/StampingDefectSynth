@@ -18,3 +18,22 @@ This repository contains the implementation of a multi-stage approach for detect
 4. **Defect Detection (Future Repository):**
    - A separate repository will be created for defect detection, using the synthetic images generated in stages two and three.
 
+
+### Pipeline: Physical to 3D Defect Models
+
+![Pipeline A](asset/pipelineA.jpg)
+
+*Illustrates the steps of physically principled models and defect location generation: (i) Creating CAD models and arranging for stamping simulation, (ii) FEM simulation, and (iii) FLC-based algorithm used to generate 3D models with diverse yet random defect locations.*
+
+### Pipeline: Synthetic Image Generation
+
+![Pipeline B](asset/pipelineB.jpg)
+
+*Illustrates the computer graphics-based synthetic image generation: models from stage 1 (left), texture coordinate mapping (middle), and final synthetic image (right).*
+
+### Real vs Synthetic Image Comparison
+
+![Results](asset/result.jpg)
+
+*Shows a minor domain difference between real images (row 1) and synthetic images (row 2).*
+
